@@ -1,0 +1,3 @@
+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
+
+git remote set-url origin https://<aruntestautomation>:<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>@github.com/<aruntestautomation>/<repository>.git
